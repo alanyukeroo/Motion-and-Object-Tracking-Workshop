@@ -4,13 +4,14 @@
 - Install dan jangan lupa menambahkan path instaasi anaconda ke environment variable windows / linux
 
 **STEP 2** - Download dan Install OpenCV
-- buka cmd ketikkan "pip install opencv-contrib-python"
+- buka cmd dan ketikkan
+"pip install opencv-contrib-python"
 
 **STEP 3** - Verifikasi
 ![Verifikasi](./media/README/verifikasi1.png)
 ![Verifikasi](./media/README/verifikasi2.png)
 
- **STEP 4** - Clone project
- Jangan lupa clone projek ini, bisa menggunakan git
- - "https://github.com/alanyukeroo/Motion-and-Object-Tracking-Workshop/"
+ **STEP 4** - Clone project  
+ Jangan lupa clone projek ini, bisa menggunakan 
+ "git clone https://github.com/alanyukeroo/Motion-and-Object-Tracking-Workshop/"
    
