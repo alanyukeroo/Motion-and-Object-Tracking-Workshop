@@ -5,13 +5,15 @@
 
 **STEP 2** - Download dan Install OpenCV
 - buka cmd dan ketikkan
-"pip install opencv-contrib-python"
-
+```bash 
+pip install opencv-contrib-python"
+```
 **STEP 3** - Verifikasi
 ![Verifikasi](./media/README/verifikasi1.png)
 ![Verifikasi](./media/README/verifikasi2.png)
 
  **STEP 4** - Clone project  
  - Jangan lupa clone projek ini, jika anda sudah mempunyai git 
- " git clone https://github.com/alanyukeroo/Motion-and-Object-Tracking-Workshop/ "
-   
+ ``` bash 
+ git clone https://github.com/alanyukeroo/Motion-and-Object-Tracking-Workshop/ 
+ ```
