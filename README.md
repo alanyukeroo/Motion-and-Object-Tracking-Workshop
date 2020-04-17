@@ -12,6 +12,6 @@
 ![Verifikasi](./media/README/verifikasi2.png)
 
  **STEP 4** - Clone project  
- Jangan lupa clone projek ini, bisa menggunakan 
+ - Jangan lupa clone projek ini, jika anda sudah mempunyai git 
  "git clone https://github.com/alanyukeroo/Motion-and-Object-Tracking-Workshop/"
    
