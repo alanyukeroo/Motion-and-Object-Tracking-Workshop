@@ -6,7 +6,7 @@
 **STEP 2** - Download dan Install OpenCV
 - buka cmd dan ketikkan
 ```bash 
-pip install opencv-contrib-python"
+pip install opencv-contrib-python
 ```
 **STEP 3** - Verifikasi
 ![Verifikasi](./media/README/verifikasi1.png)
