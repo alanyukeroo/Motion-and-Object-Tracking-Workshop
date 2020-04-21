@@ -3,7 +3,11 @@
 - Pilih Anaconda2/3
 - Install dan jangan lupa menambahkan path instaasi anaconda ke environment variable windows / linux
 
-**STEP 2** - Download dan Install OpenCV
+**STEP 2** - Setup Environment
+- Copy path instalasi script anaconda (ex: C:\ProgramData\Anaconda3\Scripts)
+![Verifikasi](./media/README/environemtn.png)
+
+**STEP 3** - Download dan Install OpenCV
 - buka cmd dan ketikkan
 ```bash 
 pip install opencv-contrib-python
