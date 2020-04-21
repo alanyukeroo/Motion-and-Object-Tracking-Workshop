@@ -5,7 +5,7 @@
 
 **STEP 2** - Setup Environment
 - Copy path instalasi script anaconda (ex: C:\ProgramData\Anaconda3\Scripts)
-![Verifikasi](./media/README/environemtn.png)
+![Verifikasi](./media/README/environment.png)
 
 **STEP 3** - Download dan Install OpenCV
 - buka cmd dan ketikkan
