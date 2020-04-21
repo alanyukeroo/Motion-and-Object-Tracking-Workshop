@@ -1,6 +1,6 @@
 **STEP 1** - Download & Install Anacondan Python Package
 - Pergi ke https://www.anaconda.com/download/
-- Pilih versi python 2.7 / anaconda2
+- Pilih Anaconda2/3
 - Install dan jangan lupa menambahkan path instaasi anaconda ke environment variable windows / linux
 
 **STEP 2** - Download dan Install OpenCV
