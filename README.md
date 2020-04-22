@@ -12,7 +12,7 @@
 ```bash 
 pip install opencv-contrib-python
 ```
-**NOTES ** - Jika anda mendapati masalah ketika instalasi opencv
+**NOTES** - Jika anda mendapati masalah ketika instalasi opencv
 - Perbarui OpenSSL di https://slproweb.com/products/Win32OpenSSL.html
 - Jika ada masalah ketika import cv2 lakukan update numpy dengan
 ``
