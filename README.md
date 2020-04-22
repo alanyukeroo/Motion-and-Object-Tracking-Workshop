@@ -12,6 +12,13 @@
 ```bash 
 pip install opencv-contrib-python
 ```
+**NOTES ** - Jika anda mendapati masalah ketika instalasi opencv
+- Perbarui OpenSSL di https://slproweb.com/products/Win32OpenSSL.html
+- Jika ada masalah ketika import cv2 lakukan update numpy dengan
+``
+pip install -U numpy
+``
+
 **STEP 3** - Verifikasi
 ![Verifikasi](./media/README/verifikasi1.png)
 ![Verifikasi](./media/README/verifikasi2.png)
@@ -21,3 +28,10 @@ pip install opencv-contrib-python
  ``` bash 
  git clone https://github.com/alanyukeroo/Motion-and-Object-Tracking-Workshop/ 
  ```
+
+**NOTES ** - Jika anda mendapati masalah ketika instalasi opencv
+- Perbarui OpenSSL di https://slproweb.com/products/Win32OpenSSL.html
+- Jika ada masalah ketika import cv2 lakukan update numpy dengan
+``
+pip install -U numpy
+``
